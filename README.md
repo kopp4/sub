@@ -14,4 +14,4 @@
 
 * 默认在桌面导出2.txt 究其原因是有一个人很懒
 
-![03](https://github.com/taltalasuka/sub/blob/main/pic/02.png)
+![03](https://github.com/taltalasuka/sub/blob/main/pic/03.png)
